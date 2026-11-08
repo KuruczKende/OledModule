@@ -1,0 +1,4 @@
+../Core/Src/ScreenModule/Screens.c:12:6:vSCREEN_Init	1
+../Core/Src/ScreenModule/Screens.c:52:6:vSCREEN_Show	1
+../Core/Src/ScreenModule/Screens.c:56:6:vSCREEN_Process	3
+../Core/Src/ScreenModule/Screens.c:67:6:boSCREEN_Switch	2

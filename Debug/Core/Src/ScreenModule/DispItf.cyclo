@@ -1,0 +1,5 @@
+../Core/Src/ScreenModule/DispItf.c:13:6:C_UI_DrawText	5
+../Core/Src/ScreenModule/DispItf.c:41:6:C_UI_DrawShape	9
+../Core/Src/ScreenModule/DispItf.c:78:6:C_UI_DrawWindow	4
+../Core/Src/ScreenModule/DispItf.c:95:6:C_UI_DrawDrawable	7
+../Core/Src/ScreenModule/DispItf.c:125:6:C_UI_DrawScreen	2

@@ -1,0 +1,4 @@
+../Core/Src/ScreenModule/Screens.c:12:6:vSCREEN_Init	24	static
+../Core/Src/ScreenModule/Screens.c:52:6:vSCREEN_Show	8	static
+../Core/Src/ScreenModule/Screens.c:56:6:vSCREEN_Process	24	static
+../Core/Src/ScreenModule/Screens.c:67:6:boSCREEN_Switch	16	static

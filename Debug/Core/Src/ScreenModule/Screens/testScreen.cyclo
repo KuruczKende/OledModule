@@ -1,0 +1,8 @@
+../Core/Src/ScreenModule/Screens/testScreen.c:17:11:TestWindowOffsetX	1
+../Core/Src/ScreenModule/Screens/testScreen.c:22:11:TestWindowOffsetY	1
+../Core/Src/ScreenModule/Screens/testScreen.c:29:11:TestValue0	1
+../Core/Src/ScreenModule/Screens/testScreen.c:34:11:TestValue1	1
+../Core/Src/ScreenModule/Screens/testScreen.c:39:11:TestValue2	1
+../Core/Src/ScreenModule/Screens/testScreen.c:44:15:TestMenuText	1
+../Core/Src/ScreenModule/Screens/testScreen.c:177:6:testButtonEvent	22
+../Core/Src/ScreenModule/Screens/testScreen.c:237:6:testScreenInit	1
